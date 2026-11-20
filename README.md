@@ -22,7 +22,7 @@ const gokul = {
   role: "Full-stack developer",
   loves: ["TypeScript", "Postgres", "clean UIs", "developer tools"],
   building: ["Kernabase: my own self-hosted Postgres studio"],
-  contributing: ["supabase/supabase"],
+  contributing: ["i18next", "tldr-pages", "supabase"],
   currentlyExploring: ["Go", "Kotlin", "Flutter"],
   funFact: "When an app doesn't exist, I build it myself (time tracker, mock API server...)",
 };
@@ -55,7 +55,12 @@ const gokul = {
 
 ### 🤝 Open source
 
-<a href="https://github.com/supabase/supabase/pull/53586"><img src="https://img.shields.io/badge/supabase%2Fsupabase-%2353586-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase PR" /></a> &nbsp;**fix(studio):** avoid migration version collisions in self-hosted Studio
+| Project | Contribution | Status |
+|---|---|:-:|
+| <img src="https://github.com/i18next.png" width="16" /> [**i18next**](https://github.com/i18next/i18next-resources-for-ts) | [Fix `ERR_REQUIRE_ESM` crash in i18next-resources-for-ts](https://github.com/i18next/i18next-resources-for-ts/pull/12) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/tldr-pages.png" width="16" /> [**tldr-pages**](https://github.com/tldr-pages/tldr) | [Add a page for `xorriso`](https://github.com/tldr-pages/tldr/pull/25139) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/supabase.png" width="16" /> [**Supabase**](https://github.com/supabase/supabase) | [Avoid migration version collisions in self-hosted Studio](https://github.com/supabase/supabase/pull/53586) | ![In review](https://img.shields.io/badge/in_review-3FCF8E?style=flat-square&logo=github&logoColor=white) |
+| <img src="https://github.com/supabase.png" width="16" /> [**Supabase**](https://github.com/supabase/supabase) | [Update the RedwoodJS tutorial to the supabase-js v2 auth APIs](https://github.com/supabase/supabase/pull/53307) | ![In review](https://img.shields.io/badge/in_review-3FCF8E?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
